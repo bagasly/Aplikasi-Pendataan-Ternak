@@ -1,0 +1,20 @@
+<component name="libraryTable">
+  <library name="lib">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/untitled1/lib/geronimo-stax-api_1.0_spec-1.0.jar!/" />
+      <root url="jar://$PROJECT_DIR$/untitled1/lib/mysql-connector-j-8.0.32.jar!/" />
+      <root url="jar://$PROJECT_DIR$/untitled1/lib/poi-ooxml-3.5-FINAL-20090928.jar!/" />
+      <root url="jar://$PROJECT_DIR$/untitled1/lib/commons-8.0.0.jar!/" />
+      <root url="jar://$PROJECT_DIR$/untitled1/lib/xmlbeans-2.3.0.jar!/" />
+      <root url="jar://$PROJECT_DIR$/untitled1/lib/poi-3.5-FINAL-20090928.jar!/" />
+      <root url="jar://$PROJECT_DIR$/untitled1/lib/poi-ooxml-full-5.2.3.jar!/" />
+      <root url="jar://$PROJECT_DIR$/untitled1/lib/poi-5.2.3.jar!/" />
+      <root url="jar://$PROJECT_DIR$/untitled1/lib/dom4j-1.6.1.jar!/" />
+      <root url="jar://$PROJECT_DIR$/untitled1/lib/pdfa-8.0.0.jar!/" />
+      <root url="jar://$PROJECT_DIR$/untitled1/lib/ooxml-schemas-1.0.jar!/" />
+      <root url="jar://$PROJECT_DIR$/untitled1/lib/pdftest-8.0.0.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
